@@ -1,9 +1,13 @@
+<h1 align="center">Hi 👋, I'm Azhar Waheed</h1>
+<h3 align="center">Full Stack Software Engineer | Unity Game Developer</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=285&color=0:0D1117,28:3B0A0A,58:FF3131,82:FF8C00,100:FFD166&text=Azhar%20Waheed%20&fontColor=FFFFFF&fontSize=64&fontAlignY=35&fontFamily=Segoe%20UI&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Web3%20Infrastructure%20%E2%80%A2%20Game%20Technology&descSize=19&descAlignY=58&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Bungee&weight=800&size=30&duration=2600&pause=900&color=FF3131&center=true&vCenter=true&width=1000&height=70&lines=I+build+AI-powered+products+that+feel+alive.;Game-dev+energy.+Systems-engineering+discipline.;Dubai-based+builder+shipping+tools%2C+games%2C+and+Web3+systems." />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Unity+Game+Developer;MERN+Stack+Expert;Web3+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
