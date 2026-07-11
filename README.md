@@ -50,56 +50,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/company/devhousellc/about/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://azhar-waheed-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:azharw421@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
-## 📌 Pinned Projects
-
-<!-- Replace with your actual project links -->
-<p align="center">
-  <a href="https://github.com/your-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical" alt="Project 2" />
-  </a>
-</p>
-
----
 
 ## 💡 Currently Learning
 
