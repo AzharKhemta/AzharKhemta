@@ -11,8 +11,7 @@ Full Stack Software Engineer | Unity Game Developer
 - 🚀 Next.js Developer
 - 🎮 Multiplayer Games
 - ⛓️ Web3 Integration
-- ☁️ Azure PlayFab
-- 📱 Android Development
+
 
 ## Tech Stack
 
